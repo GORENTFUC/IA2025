@@ -13,7 +13,6 @@ https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset-leg
 ## 🛠️ Technologies Used
 - Python 3.10
 - Django
-- MySQL
 
 ## 📦 Installation
 
