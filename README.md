@@ -2,7 +2,7 @@
 
 Proyecto final de Django para implementación de modelos de machine learning
 
-###Autores: 
+##Autores: 
 - Juan L.
 - Estiven L.
 
