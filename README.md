@@ -2,8 +2,9 @@
 
 Proyecto final de Django para implementación de modelos de machine learning
 
-Autores: Juan L.
-Estiven L.
+###Autores: 
+- Juan L.
+- Estiven L.
 
 ## Link DataSet
 https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset-legit-dataset
